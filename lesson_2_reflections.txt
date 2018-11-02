@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+It starts storing the metadata of all the files in the direcory when git commit is pressed. It's needed to know the status of mutiplt files at the same time
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It bundles up all the files until a commit. 
