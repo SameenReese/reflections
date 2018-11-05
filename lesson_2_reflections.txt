@@ -3,3 +3,6 @@ It starts storing the metadata of all the files in the direcory when git commit 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It bundles up all the files until a commit. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+It ensures that all the other changes are not lost by storing them in Staging area and bundles them all up and commits them at once whenever needed
