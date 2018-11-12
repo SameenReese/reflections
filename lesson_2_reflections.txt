@@ -6,3 +6,6 @@ It bundles up all the files until a commit.
 
 How can you use the staging area to make sure you have one commit per logical change?
 It ensures that all the other changes are not lost by storing them in Staging area and bundles them all up and commits them at once whenever needed
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+In making newer verions or experimenting the existing code without spoiling it
